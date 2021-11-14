@@ -1,1 +1,1 @@
-# thuhole-config
+# jluhole-config
