@@ -8,7 +8,7 @@
     "privacy_url":"https://terms.tree.tianyu.xin/privacy.html",
     "contact_email":"admin@mail.jluhollow.com",
     "email_suffixes":["mails.jlu.edu.cn"],
-    "announcement":"JLU Hollow 测试完毕, 为保证内容安全和信息安全, 之前的数据已经清空",
+    "announcement":"客户端还有很多缺陷，欢迎随时向admin@jluhollow.com发信反馈，主要问题集中在安卓客户端，欢迎大家使用网页版~",
     "fold_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适","重复内容","举报较多"],
     "reportable_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适","重复内容"],
     "sendable_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适"],
