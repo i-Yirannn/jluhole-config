@@ -12,7 +12,7 @@
     "fold_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适","重复内容","举报较多"],
     "reportable_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适","重复内容"],
     "sendable_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适"],
-    "img_base_urls":["https://i.tree.tianyu.xin/","https://i2.tree.tianyu.xin/"],
+    "img_base_urls":["https://s-bj-3043-treehollow.oss.dogecdn.com/"],
     "web_frontend_version":"v3.0.3",
     "android_frontend_version":"1.0.10",
     "android_apk_download_url":"",
