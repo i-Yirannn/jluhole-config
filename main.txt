@@ -8,7 +8,7 @@
     "privacy_url":"https://terms.tree.tianyu.xin/privacy.html",
     "contact_email":"admin@mail.jluhollow.com",
     "email_suffixes":["mails.jlu.edu.cn"],
-    "announcement":"在树洞的管理中、管理员们一定会有做的不合理的地方，吸取兄弟团队经验，大家可以直接联系我：微信@ _Yirannn 我们可以探讨一下为什么会被删帖禁言，这样的禁言是否合理，如果不合理应该怎么做。树洞的本质是沟通，管理团队也需要不断的和大家沟通来完善自己。",
+    "announcement":"欢迎大家转发 JLU Hollow 公众号的首篇内容，让这里充满更多生气，树洞的本质是人与人的交流\nJLU Hollow 搭建在国内服务器，内容受到国内法律监管，虽然没有像 T 大树洞被墙的风险，但是有被网监部门扬了的风险，敏感问题还请理智讨论。\n新版 APP 已经进入测试阶段，界面可以参看 #4924",
     "fold_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适","重复内容","举报较多"],
     "reportable_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适","重复内容"],
     "sendable_tags":["性相关","政治相关","NSFW","刷屏","引战","未经证实的传闻","令人不适"],
